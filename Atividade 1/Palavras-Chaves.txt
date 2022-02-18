@@ -1,0 +1,74 @@
+0:00 - 3:30
+    Processo de Software
+    Atividades de Software
+    Modelos
+    Métodos Ágeis
+3:31 - 5:56
+    Definições
+    Software
+    Programas
+    Documentação
+    Qualidade
+    Funcionalidade
+    Desempenho
+    Confiabilidade
+    Manutenção
+    Usabilidade
+5:57 - 6:19
+    Engenharia de Software
+    Produção de Software
+    Especificação
+    Desenvolvimento
+    Validação
+    Evolução
+6:20 - 8:46
+    Desafios
+    Velocidade
+    Confiabilidade
+8:47 - 10:34
+    Desenvolver do zero
+    Estender
+10:35 - 15:59
+    Abstração
+    Frameworks
+    Cascata
+    Incremental
+    Orientado a reuso
+    Requisitos
+    Projeto
+    Implementação
+    Teste
+    Manutenção
+    Especificação
+    Desenvolvimento
+    Validação
+    Requisitos
+    Análise
+    Alterações
+    Projeto
+    Desenvolvimento
+    Validação
+    Componentes
+16:00 - 17:04
+    Especificação
+    Desenvolvimento
+    Validação
+    Evolução
+17:05 - 18:15
+    Requisitos
+    Viabilidade
+    Coleta
+    Elicitação
+18:16 - 19:44
+    Projeto
+    Arquitetura
+    Banco de Dados
+    Interface
+    Componentes
+19:45 - 20:53
+    Componentes
+    Sistema
+    Aceitação
+20:54 - 22:42
+    Mudanças
+    Avaliação
