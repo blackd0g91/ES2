@@ -1,0 +1,21 @@
+1. O que você entendeu da situação atual e problemas?
+
+        A secretária Patrícia é encarregada do controle de três salas de reunião. Devido ao volume 
+de diferentes setores e pessoas que utilizam as salas, a organização por planilhas acaba deixando 
+o processo todo um tanto quanto mais complexo e dificultoso do que deveria ser. Ela também pode ter
+dificuldades ao realocar reuniões ou verificar os horários disponíveis, como é constantemente solicitado.
+
+2. Qual a sua proposta de solução?
+
+        A proposta é um sistema para o gerenciamento das salas. Com cadastro de salas e usuários em um sistema
+o controle poderia ser feito de forma mais simples. Para facilitar nos principais gargalos do formato atual, uma
+tela para consulta de salas por horário definido. Ao cadastrar uma reunião, poderemos também indicar o solicitante
+e se necessário, informações da reunião, como quantidade de pessoas que atenderão à reunião, assunto e
+obrigatoriamente a duração.
+
+3. Faça uma lista dos requisitos funcionais
+
+    - Gerenciar Salas
+    - Gerenciar Solicitantes
+    - Gerenciar Reuniões
+    - Consultar Disponibilidade
